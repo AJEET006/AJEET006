@@ -1,4 +1,4 @@
-<h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"> I am Rupesh Kamble</h1>
+<h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"> I am Ajeet Singh</h1>
 
 - 🌱 I’m currently learning PG-DAC
 - 💬 Ask me about Java,DataStructure,MySql,OS-Linux,SpringBoot,ReactJS
