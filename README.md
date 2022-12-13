@@ -1,6 +1,6 @@
 <h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"> I am Ajeet Singh</h1>
 
-- 🌱 I’m currently learning PG-DAC
+- 🌱 I have completed Post Graduate Diploma in Advanced Computing (PG-DAC) from  CDAC-Pune [ CeG, MeitY (Government of India ) ] affiliated institute.
 - 💬 Ask me about Java,DataStructure,MySql,OS-Linux,SpringBoot,ReactJS
 - 📫 Reach me at singhajeet335@gmail.com
  
